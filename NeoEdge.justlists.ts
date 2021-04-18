@@ -115,11 +115,19 @@
         },
         {
             "symbol":"HT",
-            "address":"TDyvndWuvX5xTBwHPYJi7J3Yq8pq8yh62h",
+            "address":"TSs7rXTh88ioG5Umen3Hq4ALjyAyjKqiRh",
             "chainId":1,
             "decimals":18,
             "name":"HuobiToken",
             "logoURI":"https://coin.top/production/logo/TDyvndWuvX5xTBwHPYJi7J3Yq8pq8yh62h.png"
+        },
+        {
+            "symbol":"NED",
+            "address":"TTi7aLRWMU3cgyoMJFb7WqbESAHbmxVRje",
+            "chainId":1,
+            "decimals":6,
+            "name":"WINK",
+            "logoURI":"Pending"
         }
     ],
     "logoURI":"https://justswap.io/favicon.ico",
